@@ -8,5 +8,8 @@
 		<div>checkin 2</div>
 		<div>checkin 3</div>
 		<div>checkin 4</div>
+		<div>b2 - checkin 1</div>
+		<div>b2 - checkin 2</div>
+		<div>b2 - checkin 3</div>
 	</body>
 </html>

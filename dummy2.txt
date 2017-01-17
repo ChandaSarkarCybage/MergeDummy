@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<div>d3-checkin 1</div>
+		<div>d3-checkin 2</div>
 	</body>
 </html>

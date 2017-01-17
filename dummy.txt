@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>This is a dummy repo</title>	
+	</head>
+	<body>
+		<div>Dummy repo initial checkin</div>
+	</body>
+</html>

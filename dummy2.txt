@@ -6,5 +6,6 @@
 		<div>checkin 1</div>
 		<div>checkin 2</div>
 		<div>checkin 3</div>
+		<div>checkin 4</div>
 	</body>
 </html>

@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<div>checkin 1</div>
+		<div>checkin 2</div>
 	</body>
 </html>
